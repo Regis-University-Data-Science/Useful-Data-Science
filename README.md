@@ -7,6 +7,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Useful Data Science](#useful-data-science)
     - [Printing](#printing)
     - [Visualization](#visualization)
+    - [Utility]
 - [Resources](#resources)
     - [Podcasts](#podcasts)
     - [Twitter](#twitter)
@@ -26,8 +27,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Visualization
 
 *Libraries for visual representation of data*
-* [pandas-bokeh](https://github.com/PatrikHlobil/Pandas-Bokeh) - Bokeh Plotting Backend for Pandas and GeoPandas 
+* [pandas-bokeh](https://github.com/PatrikHlobil/Pandas-Bokeh) - Bokeh Plotting Backend for Pandas and GeoPandas
 
+
+## Utility
+
+*Libraries that manipulate the data or dataframe in some useful way*
+* [dtale](https://github.com/man-group/dtale) - Create interactive table from Pandas dataframe.
 
 # Resources
 
