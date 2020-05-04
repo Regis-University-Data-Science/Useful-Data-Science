@@ -8,7 +8,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Printing](#printing)
     - [Visualization](#visualization)
     - [Machine Learning](#machine-learning)
-    - [Utility](utility)
+    - [Utility](#utility)
 - [Resources](#resources)
     - [Podcasts](#podcasts)
     - [Twitter](#twitter)
