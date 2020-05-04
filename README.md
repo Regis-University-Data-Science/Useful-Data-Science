@@ -7,7 +7,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Useful Data Science](#useful-data-science)
     - [Printing](#printing)
     - [Visualization](#visualization)
-    - [Utility]
+    - [Utility](utility)
 - [Resources](#resources)
     - [Podcasts](#podcasts)
     - [Twitter](#twitter)
@@ -37,6 +37,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Libraries that manipulate the data or dataframe in some useful way*
 * [dtale](https://github.com/man-group/dtale) - Create interactive table from Pandas dataframe.
+* [nbdev](https://nbdev.fast.ai/) - Create library and PyPi package from a Jupyter notebook.
 
 # Resources
 
