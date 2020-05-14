@@ -8,7 +8,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Printing](#printing)
     - [Visualization](#visualization)
     - [Machine Learning](#machine-learning)
+    - [Database](#database)
     - [Utility](#utility)
+    
 - [Resources](#resources)
     - [Podcasts](#podcasts)
     - [Twitter](#twitter)
@@ -28,12 +30,20 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Visualization
 
 *Libraries for visual representation of data*
+
 * [pandas-bokeh](https://github.com/PatrikHlobil/Pandas-Bokeh) - Bokeh Plotting Backend for Pandas and GeoPandas
 
 ## Machine Learning
+
 *Libraries for machine learning*
+
 * [yellowbrick](https://www.scikit-yb.org/en/latest/) - extends the Scikit-Learn API to make model selection and hyperparameter tuning easier
 
+## Database
+
+*Libraries or 3rd party tools for manipulating database systems*
+
+* [Beekeper Studio](https://www.beekeeperstudio.io/) - IDE for databases. Similar to DataGrip, Toad, and SQL Developer.
 
 ## Utility
 
