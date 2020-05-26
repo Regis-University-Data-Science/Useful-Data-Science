@@ -10,6 +10,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Machine Learning](#machine-learning)
     - [Database](#database)
     - [Utility](#utility)
+    - [Virtual Machine](#virtual-machine)
     
 - [Resources](#resources)
     - [Podcasts](#podcasts)
@@ -52,6 +53,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [dtale](https://github.com/man-group/dtale) - Create interactive table from Pandas dataframe.
 * [nbdev](https://nbdev.fast.ai/) - Create library and PyPi package from a Jupyter notebook.
 * [pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious. 
+
+## Virtual Machine 
+
+*Virtual machines or VM resources
+
+* [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS.
 
 # Resources
 
