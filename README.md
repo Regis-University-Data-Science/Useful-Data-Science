@@ -53,6 +53,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [dtale](https://github.com/man-group/dtale) - Create interactive table from Pandas dataframe.
 * [nbdev](https://nbdev.fast.ai/) - Create library and PyPi package from a Jupyter notebook.
 * [pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious. 
+* [deon](https://deon.drivendata.org/) - An ethics checklist for data scientists.
 
 ## Virtual Machine 
 
