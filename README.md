@@ -13,6 +13,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Virtual Machine](#virtual-machine)
     
 - [Resources](#resources)
+    - [Useful for Classes](#useful-for-classes)
     - [Podcasts](#podcasts)
     - [Twitter](#twitter)
     - [Websites](#websites)
@@ -64,6 +65,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 # Resources
 
 Where to discover new Python libraries.
+
+## Useful for Classes
+
+* [List of public APIs](https://github.com/public-apis/public-apis#dictionaries)
 
 ## Podcasts
 
